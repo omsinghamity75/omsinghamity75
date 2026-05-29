@@ -1,8 +1,8 @@
 # Hi there, I'm Om Singh 👋
 
-**B.Tech CSE @ AUC '27 · Internal SIH'25 Hackathon Winner 🏆 · SDE + Data Science Enthusiast**
+**B.Tech CSE @ AUC '27 · Internal SIH'25 Hackathon Winner 🏆 · SDE + Full Stack **
 
-> Open to internship opportunities in Software Development, Data Science, Data Analyst and Full-Stack Development.
+> Open to internship opportunities in Software Development, Frontend , Backend and Full-Stack Development.
 
 ---
 
