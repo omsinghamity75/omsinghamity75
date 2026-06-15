@@ -68,6 +68,3 @@ I'm a Computer Science student passionate about building AI-powered products and
 [![Email](https://img.shields.io/badge/Email-contact-red?style=flat&logo=gmail)](mailto:[your.om.singh.auc@gmail.com])
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-green?style=flat&logo=replit)](https://profile-builder--omsingh122003.replit.app)
 
----
-
-*"Building things that matter — one commit at a time."*
