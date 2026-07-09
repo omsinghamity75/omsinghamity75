@@ -34,17 +34,6 @@ I'm a Computer Science student passionate about building AI-powered products and
 
 ---
 
-## Featured projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [AI Contract Risk Analyzer](https://github.com/omsinghamity75/AI-Contract-Risk-Analyzer) | NLP system to detect risky clauses in legal contracts | Python, spaCy, OpenAI, Streamlit |
-| [Blockchain + Spark Data Pipeline](https://github.com/omsinghamity75/Blockchain-Powered-Secure-Real-Time-Data-Sharing-with-Apache-Spark) | Secure real-time data sharing with Apache Spark | Python, Spark, Blockchain |
-| [BeSecured AI – Face Mask Detector](https://github.com/omsinghamity75/BeSecured-AI--Face-Mask-Detector) | Real-time face mask detection using deep learning | Python, OpenCV, CNN |
-| [Real-Time Threat Detection](https://github.com/omsinghamity75/Real-Time-Threat-Detection) | Real-time threat identification system | Python |
-| [Summarize AI](https://github.com/omsinghamity75/Summarize-AI---Instant-text-analysis-summarization) | AI-powered text summarization web app using NLP models | Python, NLP, Streamlit |
-
----
 
 ## Currently working on
 
