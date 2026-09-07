@@ -1,36 +1,46 @@
 # Hi there, I'm Om Singh 👋
 
-**B.Tech CSE @ AUC '27 · Internal SIH'25 Hackathon Winner 🏆 · SDE + Full Stack **
+**B.Tech CSE @ AUC '27 · Finalist of Smart India Hackathon 2025🏆 · SDE + Full Stack **
 
-> Open to internship opportunities in Web Development, Frontend , Backend and Full-Stack Development.
+> Open to job opportunities in roles for AI Engineer , Software Development Engineer and Full-Stack Development.
 
 ---
 
 ## About me
 
-I'm a Computer Science student passionate about building AI-powered products and turning raw data into real decisions. I enjoy working at the intersection of **data science** and **full-stack web development**.
+Computer Science Engineering student with hands-on experience in software and application development, REST API integration,
+and AI-driven solutions. Strong foundation in Data Structures Algorithms, Object-Oriented Programming, DBMS, and software
+engineering principles, with knowledge of Generative AI essentials and AI-assisted development. Proficient in Python, C++, Java,
+JavaScript, Dart, Flutter, React.js, Node.js, Flask, SQL, and REST APIs. Experienced in developing scalable and responsive
+applications, debugging solutions, integrating APIs, and collaborating on technical projects and hackathons**.
 
-- 🏆 Winner — ISIH'25 Hackathon
+- 🏆 Finalist — SIH'25 Hackathon
 - 🎓 B.Tech CSE, Amity University Chhattisgarh (2027)
 - 📍 Raipur, Chhattisgarh, India
-- 💼 Actively seeking internship roles (SDE / Data Science / Analyst)
+- 💼 Actively seeking internship/job roles (SDE / AI based roles / FullStack / Analyst)
 - 📧 Reach me at: [om.singh.auc@gmail.com]
 
 ---
 
 ## Tech stack
 
-**Data Science & AI**
-`Python` `Pandas` `NumPy` `Scikit-learn` `spaCy` `OpenCV` `Matplotlib` `Seaborn` `Streamlit`
+Programming: Python, C++, Java, JavaScript, SQL
 
-**Web Development**
-`JavaScript` `React.js` `Node.js` `Flask` `HTML/CSS` `REST APIs`
+AI & Generative AI: Generative AI Essentials, Prompt Engineering, Generative AI Tools, AI-Assisted Development, AI-Assisted Research, NLP, Machine Learning
 
-**Tools & Platforms**
-`Git` `GitHub` `Linux` `VS Code` `Jupyter Notebook` `Postman`
+Frontend: React.js, HTML, CSS, Responsive UI Design
 
-**Databases**
-`MySQL` `SQLite`
+Backend & APIs: Flask, Node.js, Express.js, REST APIs, JWT Authentication
+
+Databases: PostgreSQL, MySQL, MongoDB, Firebase Cloud Firestore
+
+Data Science: Machine Learning, Data Analysis, Pandas, NumPy, Scikit-learn
+
+Computer Science: Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks, SDLC
+
+Cybersecurity Fundamentals: Authentication, JWT, API Security Fundamentals, Secure Application Practices
+
+Tools & Cloud: Git, GitHub, Postman, AWS
 
 ---
 
